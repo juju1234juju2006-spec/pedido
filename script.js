@@ -6,13 +6,13 @@ const confettiContainer = document.getElementById('confetti-container');
 const mensagemFuga = document.getElementById('mensagem-fuga');
 
 const frases = [
-    "Tem certeza Kelvin?",
+    "Tem certeza Ruan?",
     "Pense bem...",
     "Olha lá, hein!",
     "Vai clicar mesmo?",
     "Dá mais uma pensadinha...",
     "Certeza absoluta?",
-    "Acho que você clicou errado Kelvin...",
+    "Acho que você clicou errado RUAN..",
     "Eu mereço um sim kkkkk",
     "Eu acho que você errou bem, é no outro botão"
 ];
